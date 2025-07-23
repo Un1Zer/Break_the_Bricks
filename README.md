@@ -1,0 +1,2 @@
+# Break_the_Bricks
+含有人机对战与机机互殴的NCurses打砖块游戏。Linux下C编程
