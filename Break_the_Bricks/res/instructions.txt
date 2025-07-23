@@ -1,0 +1,17 @@
+                                                     HOW TO PLAY
+
+                                 ┌─ Controls ─────────────────────────────────────────┐
+                                 │  [A]   Move paddle LEFT                            │
+                                 │  [D]   Move paddle RIGHT                           │
+                                 │  [ESC]       Quit game                             │
+                                 └────────────────────────────────────────────────────┘
+
+
+                                 ┌─ Brick Types ──────────────────────────────────────┐
+                                 │  [███] Normal (1 pt)   [$$$] Precious (2 pts)      │
+                                 │  [XXX] Danger (-1 hp)  [HHH] Health (+1 hp)        │
+                                 │                  [+++] Speed up                    │
+                                 └────────────────────────────────────────────────────┘
+
+
+                                        >> Press [SPACE] or [ENTER] to Start <<
